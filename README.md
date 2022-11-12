@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tehos
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on front development.
+- 🌱 I’m currently learning JavaScript.
+- 💞️ I’m looking to collaborate on front-end development.
 - 📫 How to reach me postolacheteodor@gmail.com
 
 <!---
